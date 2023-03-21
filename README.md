@@ -1,5 +1,5 @@
 # MVC UX
-## Elementos de Usabilidad: UX
+## Elementos de Usabilidad: User Experience
 ### Look
 ### Feel
 ### Usability
