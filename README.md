@@ -7,3 +7,4 @@
 ##### Diseño UX + USD = Metodologías de Diseño (Ágiles)
 ###### User Research
 ###### APRENDIZAJE: LA GESTIÓN ÁGIL DEBE SER ACOMPAÑADA DE UNA METODOLOGÍA ÁGIL (LA MÁS TRADICIONAL)
+###### LENGUAJE TRADICIONAL MODERNO DE USO EN LA WEB
