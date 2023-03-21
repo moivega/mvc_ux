@@ -4,3 +4,4 @@
 ### Feel
 ### Usability
 #### Obs. : Metodologías de Diseño & Requerimientos
+##### Diseño UX + USD = Metodologías de Diseño (Agiles)
