@@ -3,5 +3,4 @@
 ### Look
 ### Feel
 ### Usability
-
-#### Others: Requerimientos
+#### Obs.: Requerimientos
