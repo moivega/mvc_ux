@@ -6,4 +6,4 @@
 #### Obs. : Metodologías de Diseño & Requerimientos (Usuarios & Sistema)
 ##### Diseño UX + USD = Metodologías de Diseño (Agiles)
 ###### User Research
-###### APRENDIZAJE: LA GESTIÓN ÁGIL DEBE SER ACOMPAÑADA DE UNA METODOLOGÍA ÁGIL (LA MÁS TRADICIOAL)
+###### APRENDIZAJE: LA GESTIÓN ÁGIL DEBE SER ACOMPAÑADA DE UNA METODOLOGÍA ÁGIL (LA MÁS TRADICINAL)
