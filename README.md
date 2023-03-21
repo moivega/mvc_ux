@@ -3,4 +3,4 @@
 ### Look
 ### Feel
 ### Usability
-#### Obs.: Requerimientos
+#### Obs. : Metodologías de Diseño & Requerimientos
